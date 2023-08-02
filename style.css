@@ -1,0 +1,59 @@
+h1, h2{
+    color:maroon;
+}
+h1{
+    text-align: center;
+}
+.container{
+    text-align: center;
+ }/*
+navbar-brand{
+    color: blue;
+    box-shadow: #333333; */
+
+.social-links{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+
+.list-item-inline{
+    padding: 1% 12%;
+    margin: auto;
+}
+
+.footer{
+    padding-top: 2rem;
+    margin-top: 2rem;
+}
+
+.intro{
+    color: blue;
+}
+
+.row{
+    padding: 0 10%;
+
+}
+.carousel-inner{
+    padding-top: 1rem;
+}
+ .entry-footer {
+        display: none !important;
+       }
+.entry-footer {
+        display: none;
+        }
+ .entry-footer a {
+            font-size: 10px;
+              text-transform: none;
+              padding: 5px;
+              border: 0;
+              margin: 0;
+        }
+ .blog .entry-footer a {
+            display: none;
+ }
